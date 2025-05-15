@@ -7,7 +7,7 @@
         "build": "yarn run clean && mkdir public && cp admin.html config.yml public/ && node ./build.js"
     },
     "engines": {
-        "node": "14.x"
+        "node": "22.x"
     },
     "dependencies": {
         "front-matter": "^4.0.2",
