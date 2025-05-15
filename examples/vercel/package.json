@@ -12,6 +12,6 @@
     "dependencies": {
         "front-matter": "^4.0.2",
         "marked": "^2.0.1",
-        "netlify-cms-oauth-provider-node": "latest"
+        "netlify-cms-oauth-provider-node": "^2.0.0"
     }
 }
